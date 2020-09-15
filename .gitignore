@@ -1,8 +1,8 @@
 # Folder with materials from the lesson
-materials
+materials/
 
 # Idea PyCharm folder
-.idea
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
