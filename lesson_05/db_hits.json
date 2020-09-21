@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc632"
+  },
+  "productPriceLocal": "1990.00",
+  "productId": "20062760",
+  "productName": "Электрочайник Moulinex BY730132",
+  "productCategoryId": "cat2_cis_0000000062",
+  "productCategoryName": "Электрочайники",
+  "productVendorName": "Moulinex",
+  "productGroupId": "cat1_cis_0000000003",
+  "Location": "block5260655",
+  "eventPosition": 5
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc633"
+  },
+  "productPriceLocal": "5990.00",
+  "productId": "20062118",
+  "productName": "Утюг Tefal Comfort Glide FV2674E0",
+  "productCategoryId": "cat2_cis_0000000052",
+  "productCategoryName": "Утюги",
+  "productVendorName": "Tefal",
+  "productGroupId": "cat1_cis_0000000002",
+  "Location": "block5260655",
+  "eventPosition": 6
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc634"
+  },
+  "productPriceLocal": "19990.00",
+  "productId": "30046136",
+  "productName": "Смартфон Xiaomi Redmi Note 8 Pro 6+64GB Mineral Grey",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Xiaomi",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 7
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc635"
+  },
+  "productPriceLocal": "3990.00",
+  "productId": "20068767",
+  "productName": "Кофемашина капсульного типа Dolce Gusto Krups Piccolo XS KP1A3B10",
+  "productCategoryId": "cat2_cis_0000000234",
+  "productCategoryName": "Кофемашины",
+  "productVendorName": "Krups",
+  "productGroupId": "cat1_cis_0000000120",
+  "Location": "block5260655",
+  "eventPosition": 8
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc636"
+  },
+  "productPriceLocal": "21990.00",
+  "productId": "30046138",
+  "productName": "Смартфон Xiaomi Redmi Note 8 Pro 6+128GB Mineral Grey",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Xiaomi",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 1
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc637"
+  },
+  "productPriceLocal": "17990.00",
+  "productId": "50131384",
+  "productName": "Наушники Apple AirPods Pro with Wireless Case (MWP22RU/A)",
+  "productCategoryId": "cat2_cis_0000000728",
+  "productCategoryName": "Наушники",
+  "productVendorName": "Apple",
+  "productGroupId": "cat1_cis_0000000155",
+  "Location": "block5260655",
+  "eventPosition": 2
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc638"
+  },
+  "productPriceLocal": "54990.00",
+  "productId": "30049878",
+  "productName": "Смартфон Honor 30 Pro+ 256GB Midnight Black (EBG-AN10)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Honor",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 3
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc639"
+  },
+  "productPriceLocal": "9990.00",
+  "productId": "20063291",
+  "productName": "Пылесос ручной (handstick) Tefal Air Force 160 blue TY7231WO",
+  "productCategoryId": "cat2_cis_0000000639",
+  "productCategoryName": "Пылесосы",
+  "productVendorName": "Tefal",
+  "productGroupId": "cat1_cis_0000000184",
+  "Location": "block5260655",
+  "eventPosition": 4
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc63a"
+  },
+  "productPriceLocal": "5490.00",
+  "productId": "20065589",
+  "productName": "Электрочайник Tefal Smart&amp;Light KO851830",
+  "productCategoryId": "cat2_cis_0000000062",
+  "productCategoryName": "Электрочайники",
+  "productVendorName": "Tefal",
+  "productGroupId": "cat1_cis_0000000003",
+  "Location": "block5260655",
+  "eventPosition": 5
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc63b"
+  },
+  "productPriceLocal": "14990.00",
+  "productId": "30043073",
+  "productName": "Смарт-часы Samsung Galaxy Watch Active SM-R500 Нежная пудра",
+  "productCategoryId": "cat2_cis_0000000572",
+  "productCategoryName": "Смарт-часы",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000165",
+  "Location": "block5260655",
+  "eventPosition": 6
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc63c"
+  },
+  "productPriceLocal": "19990.00",
+  "productId": "30047892",
+  "productName": "Смартфон Samsung Galaxy A51 64GB White (SM-A515F)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 7
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc63d"
+  },
+  "productPriceLocal": "7990.00",
+  "productId": "50125970",
+  "productName": "Наушники True Wireless Samsung Galaxy Buds SM-R170 Onyx",
+  "productCategoryId": "cat2_cis_0000000728",
+  "productCategoryName": "Наушники",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000155",
+  "Location": "block5260655",
+  "eventPosition": 8
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc63e"
+  },
+  "productPriceLocal": "29990.00",
+  "productId": "30047907",
+  "productName": "Смартфон Samsung Galaxy A71 Black(SM-A715F/DSM)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 5
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc63f"
+  },
+  "productPriceLocal": "4290.00",
+  "productId": "20060465",
+  "productName": "Электрическая зубная щетка Braun Oral-B 2500/D501.513.2X",
+  "productCategoryId": "cat2_cis_0000000125",
+  "productCategoryName": "Зубные щетки",
+  "productVendorName": "Braun",
+  "productGroupId": "cat1_cis_0000000136",
+  "Location": "block5260655",
+  "eventPosition": 6
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc640"
+  },
+  "productPriceLocal": "19990.00",
+  "productId": "30047894",
+  "productName": "Смартфон Samsung Galaxy A51 64GB Black (SM-A515F)",
+  "productCategoryId": "cat2_cis_0000000357",
+  "productCategoryName": "Смартфоны",
+  "productVendorName": "Samsung",
+  "productGroupId": "cat1_cis_0000000012",
+  "Location": "block5260655",
+  "eventPosition": 7
+},{
+  "_id": {
+    "$oid": "5f649e5d5d06f961567bc641"
+  },
+  "productPriceLocal": "1490.00",
+  "productId": "20032770",
+  "productName": "Триммер Philips NT3160/10",
+  "productCategoryId": "cat2_cis_0000000215",
+  "productCategoryName": "Триммеры",
+  "productVendorName": "Philips",
+  "productGroupId": "cat1_cis_0000000208",
+  "Location": "block5260655",
+  "eventPosition": 8
+}]
