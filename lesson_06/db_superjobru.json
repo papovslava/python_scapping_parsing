@@ -1,0 +1,661 @@
+[{
+  "_id": {
+    "$oid": "5f6a03f32a75d8c7985d9e84"
+  },
+  "title": "Python / Django разработчик",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/python-34606514.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f42a75d8c7985d9e88"
+  },
+  "title": "DevOps инженер / Linux инженер",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/devops-inzhener-34496173.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f52a75d8c7985d9e8f"
+  },
+  "title": "Web-программист",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/web-programmist-34516646.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f52a75d8c7985d9e90"
+  },
+  "title": "Специалист анализа и планирования клиентского сервиса",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/specialist-analiza-i-planirovaniya-klientskogo-servisa-34505921.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f52a75d8c7985d9e91"
+  },
+  "title": "DevOps инженер",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/devops-inzhener-34611408.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f62a75d8c7985d9e96"
+  },
+  "title": "Веб-разработчик / Веб-программист",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/veb-razrabotchik-34446777.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f62a75d8c7985d9e97"
+  },
+  "title": "Ведущий инженер-программист / разработчик программных решений",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/veduschij-inzhener-programmist-34302346.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f72a75d8c7985d9e9a"
+  },
+  "title": "Junior Fullstack Developer",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/junior-fullstack-developer-34426626.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f72a75d8c7985d9e9b"
+  },
+  "title": "Системный администратор Linux",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-linux-34585888.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f72a75d8c7985d9e9d"
+  },
+  "title": "Системный администратор",
+  "salary": {
+    "from": 80000,
+    "to": 90000,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-34447829.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f72a75d8c7985d9e9f"
+  },
+  "title": "Ведущий инженер СРК",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/veduschij-inzhener-srk-34433915.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f72a75d8c7985d9ea1"
+  },
+  "title": "Программист C++",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/programmist-c-34403007.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9ea7"
+  },
+  "title": "Разработчик Python",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/razrabotchik-python-34541807.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9ea8"
+  },
+  "title": "Ведущий системный администратор",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/veduschij-sistemnyj-administrator-33495886.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9eab"
+  },
+  "title": "Full-stack-веб-программист python/javascript",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/full-stack-veb-programmist-python-33998693.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9eac"
+  },
+  "title": "Senior Python Developer",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/senior-python-developer-34421314.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9ead"
+  },
+  "title": "Старший системный администратор",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/starshij-sistemnyj-administrator-34223195.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9eaf"
+  },
+  "title": "Python developer",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/python-developer-34284293.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9eb5"
+  },
+  "title": "Ведущий аудитор",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/veduschij-auditor-34455717.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03f92a75d8c7985d9eb6"
+  },
+  "title": "Биоинформатик (транскриптомика клеточных линий)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/bioinformatik-34116304.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fa2a75d8c7985d9eb9"
+  },
+  "title": "Разработчик технического зрения (Computer Vision / Image Processing)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/razrabotchik-tehnicheskogo-zreniya-34233000.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fa2a75d8c7985d9eba"
+  },
+  "title": "Разработчик Python (middle, senior)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/razrabotchik-python-34607602.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fb2a75d8c7985d9ebb"
+  },
+  "title": "Системный администратор",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-34169200.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fb2a75d8c7985d9ebc"
+  },
+  "title": "Fullstack вэб-разработчик",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/fullstack-veb-razrabotchik-32397220.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fb2a75d8c7985d9ebe"
+  },
+  "title": "Учитель информатики",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/uchitel-informatiki-27807302.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fb2a75d8c7985d9ebf"
+  },
+  "title": "Инженер систем мониторинга бизнес-приложений (Application Performance Monitoring, APM)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/inzhener-sistem-monitoringa-biznes-prilozhenij-34251752.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fc2a75d8c7985d9ec5"
+  },
+  "title": "Web-аналитик",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/web-analitik-34374405.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fc2a75d8c7985d9ec6"
+  },
+  "title": "Системный администратор, IT-специалист, программист",
+  "salary": {
+    "from": 90000,
+    "to": 100000,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-33845400.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fc2a75d8c7985d9ec9"
+  },
+  "title": "Учитель информатики",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/uchitel-informatiki-34123084.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fc2a75d8c7985d9ecb"
+  },
+  "title": "Chief Technical Officer (CTO)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/chief-technical-officer-34113725.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fc2a75d8c7985d9ecc"
+  },
+  "title": "Инженер по техническому сопровождению продаж",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/inzhener-po-tehnicheskomu-soprovozhdeniyu-prodazh-34607062.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fd2a75d8c7985d9ecf"
+  },
+  "title": "Специалист технической поддержки и сопровождения финансового ПО (уровень 2-3)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/specialist-tehnicheskoj-podderzhki-i-soprovozhdeniya-finansovogo-po-34607173.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fd2a75d8c7985d9ed1"
+  },
+  "title": "Системный инженер / Системный администратор",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-34416813.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fd2a75d8c7985d9ed2"
+  },
+  "title": "Senior SQL / PostgreSQL-разработчик",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/senior-sql-34449372.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fd2a75d8c7985d9ed6"
+  },
+  "title": "Учитель информатики и ИКТ",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/uchitel-informatiki-i-ikt-30254613.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fd2a75d8c7985d9ed8"
+  },
+  "title": "Инженер по автоматизированному тестированию",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/inzhener-po-avtomatizirovannomu-testirovaniyu-34417736.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fd2a75d8c7985d9ed9"
+  },
+  "title": "Аналитик",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/analitik-31183225.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03fd2a75d8c7985d9eda"
+  },
+  "title": "Преподаватель компьютерных IT курсов и дизайна",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/prepodavatel-kompyuternyh-it-kursov-i-dizajna-34462129.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03ff2a75d8c7985d9ee0"
+  },
+  "title": "Младший аналитик данных (junior data scientist)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/mladshij-analitik-dannyh-34605996.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03ff2a75d8c7985d9ee1"
+  },
+  "title": "ML/NLP Architect / ML/NLP Архитектор",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/ml-33788781.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03ff2a75d8c7985d9ee5"
+  },
+  "title": "Системный администратор (DevOps Senior)",
+  "salary": {
+    "from": 184000,
+    "to": 230000,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-34595978.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03ff2a75d8c7985d9ee6"
+  },
+  "title": "Биоинформатик в области геномики и транскриптомики",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/bioinformatik-v-oblasti-genomiki-i-transkriptomiki-34574371.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03ff2a75d8c7985d9ee7"
+  },
+  "title": "Backend-разработчик",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/backend-razrabotchik-34111905.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03ff2a75d8c7985d9ee8"
+  },
+  "title": "Web-программист, Web-разработчик (удалённо)",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/web-programmist-33921626.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a03ff2a75d8c7985d9ee9"
+  },
+  "title": "Стажер-разработчик C#",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/stazher-razrabotchik-c-34598474.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04002a75d8c7985d9eec"
+  },
+  "title": "NLP Engineer / NLP инженер",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/nlp-engineer-33788780.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04002a75d8c7985d9ef1"
+  },
+  "title": "Системный администратор",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-33088419.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9ef2"
+  },
+  "title": "Web-разработчик",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": "руб."
+  },
+  "link": "https://www.superjob.ru/vakansii/web-razrabotchik-34448743.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9ef4"
+  },
+  "title": "Системный администратор, IT-специалист",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-34458498.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9ef5"
+  },
+  "title": "Генетик-аналитик данных / Data scientist",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/genetik-analitik-dannyh-33864238.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9ef7"
+  },
+  "title": "QA-специалист",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/qa-specialist-34111890.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9ef9"
+  },
+  "title": "Системный инженер Linux",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-linux-34584877.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9efa"
+  },
+  "title": "Product-менеджер",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/product-menedzher-34455158.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9efb"
+  },
+  "title": "Senior Backend Developer",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/senior-backend-developer-34069324.html",
+  "hostname": "https://www.superjob.ru/"
+},{
+  "_id": {
+    "$oid": "5f6a04012a75d8c7985d9efd"
+  },
+  "title": "Ведущий инженер по тестированию",
+  "salary": {
+    "from": null,
+    "to": null,
+    "currency": null
+  },
+  "link": "https://www.superjob.ru/vakansii/veduschij-inzhener-po-testirovaniyu-34587361.html",
+  "hostname": "https://www.superjob.ru/"
+}]
